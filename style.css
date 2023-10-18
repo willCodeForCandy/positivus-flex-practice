@@ -240,6 +240,9 @@ footer {
   color: var(--light-color);
   margin-top: 5rem;
 }
+footer > * {
+  width: 100%;
+}
 
 footer a {
   color: var(--light-color);
